@@ -8,3 +8,4 @@ Mine was the Painter Smurf.
 
 These are some illustrator images i created for a flash game developed in the 2nd semester of my first year NMCT.
 I can't find the source code of the flash game anymore unfortunately since it seems I lost the backup of everything created in the first year of college...
+# smurfs-images
